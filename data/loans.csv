@@ -1,4 +1,5 @@
-﻿1,6,Personal,5/2/23,11037,1134,7.04,240,Paid Off
+﻿loan_id,member_id,loan_type,origination_date,original_amount,current_balance,interest_rate,term_months,status
+1,6,Personal,5/2/23,11037,1134,7.04,240,Paid Off
 2,7,Personal,11/17/22,14287,8405,5.79,240,Paid Off
 3,14,Auto,7/19/24,15108,25071,7.85,360,Active
 4,19,Personal,9/4/23,17775,4297,7.86,36,Paid Off

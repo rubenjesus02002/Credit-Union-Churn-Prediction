@@ -1,4 +1,5 @@
-﻿1,1,Checking,4/25/22,10008.70919,Closed
+﻿account_id,member_id,account_type,open_date,balance,status
+1,1,Checking,4/25/22,10008.70919,Closed
 2,1,Savings,8/11/22,20993.5133,Closed
 3,1,CD,6/3/22,43628.88615,Closed
 4,2,Checking,3/9/23,12606.66878,Closed
