@@ -1,0 +1,500 @@
+﻿1,1,1,5/19/22,Debit Card,-401.89,Other
+2,1,1,5/9/22,Check,-171.68,Utilities
+3,1,1,5/14/22,ATM Withdrawal,-40,Gas
+4,1,1,5/19/22,Debit Card,-86.48,Gas
+5,1,1,5/8/22,ACH Payment,-247.89,Retail
+6,1,1,4/26/22,ACH Payment,-162.98,Grocery
+7,1,1,5/1/22,ACH Payment,-36.02,Utilities
+8,1,1,5/7/22,Transfer,117.43,Income
+9,1,1,5/18/22,Debit Card,-117.58,Gas
+10,1,1,5/19/22,ACH Payment,-110.37,Utilities
+11,1,1,5/19/22,Debit Card,-233.5,Grocery
+12,1,1,5/2/22,ACH Payment,-85.19,Grocery
+13,1,1,5/4/22,Debit Card,-178.38,Entertainment
+14,1,1,5/19/22,Direct Deposit,1398.97,Income
+15,1,1,5/8/22,ACH Payment,-204.36,Restaurant
+16,1,1,5/18/22,Debit Card,-113.15,Gas
+17,1,1,5/16/22,Debit Card,-387.48,Grocery
+18,1,1,5/12/22,Direct Deposit,820.39,Income
+19,1,1,5/9/22,ACH Payment,-350.04,Other
+20,1,1,5/7/22,Debit Card,-383.35,Other
+21,1,1,5/21/22,ATM Withdrawal,-100,Utilities
+22,1,1,5/11/22,ATM Withdrawal,-200,Gas
+23,1,1,5/15/22,Debit Card,-438.83,Other
+24,1,1,5/13/22,Debit Card,-497.21,Restaurant
+25,1,1,5/17/22,ATM Withdrawal,-40,Restaurant
+26,1,1,4/26/22,Debit Card,-466.79,Restaurant
+27,1,1,5/14/22,Check,-188.47,Grocery
+28,1,1,5/12/22,Check,173.27,Income
+29,1,1,5/20/22,Debit Card,-497.1,Restaurant
+30,1,1,5/1/22,ACH Payment,-79.05,Retail
+31,1,1,5/17/22,Check,-140.58,Utilities
+32,1,1,4/30/22,Debit Card,-392.19,Utilities
+33,1,1,5/16/22,Direct Deposit,1511.75,Income
+34,1,1,5/2/22,Debit Card,-310.26,Utilities
+35,1,1,5/9/22,Direct Deposit,1579.31,Income
+36,1,1,4/30/22,Direct Deposit,968.68,Income
+37,1,1,6/19/22,Check,160.54,Income
+38,1,1,6/18/22,Debit Card,-196.46,Restaurant
+39,1,1,5/26/22,Debit Card,-187.35,Utilities
+40,1,1,6/2/22,Debit Card,-404.58,Utilities
+41,1,1,6/2/22,ACH Payment,-364.85,Grocery
+42,1,1,6/5/22,Debit Card,-428.67,Other
+43,1,1,6/19/22,Check,11.05,Income
+44,1,1,6/8/22,Check,-154.97,Entertainment
+45,1,1,6/18/22,Debit Card,-183.16,Restaurant
+46,1,1,5/25/22,ACH Payment,-432.71,Gas
+47,1,1,6/18/22,Direct Deposit,1020.74,Income
+48,1,1,6/5/22,Debit Card,-152.66,Gas
+49,1,1,6/14/22,Debit Card,-434.64,Entertainment
+50,1,1,6/21/22,Debit Card,-451.17,Restaurant
+51,1,1,6/16/22,Debit Card,-231.19,Other
+52,1,1,5/29/22,Debit Card,-343.36,Other
+53,1,1,6/21/22,Debit Card,-209.29,Restaurant
+54,1,1,6/19/22,Debit Card,-169.67,Other
+55,1,1,6/6/22,Check,64.07,Income
+56,1,1,6/4/22,Debit Card,-27.06,Retail
+57,1,1,5/25/22,ACH Payment,-223.53,Other
+58,1,1,6/11/22,Check,-180.24,Gas
+59,1,1,6/5/22,ATM Withdrawal,-100,Entertainment
+60,1,1,6/10/22,ACH Payment,-141.1,Utilities
+61,1,1,6/13/22,Debit Card,-36.63,Entertainment
+62,1,1,6/7/22,Debit Card,-137.24,Grocery
+63,1,1,6/13/22,Direct Deposit,1208.75,Income
+64,1,1,6/11/22,Direct Deposit,1681.73,Income
+65,1,1,6/3/22,ACH Payment,-298.21,Utilities
+66,1,1,6/9/22,ATM Withdrawal,-200,Gas
+67,1,1,6/12/22,ATM Withdrawal,-60,Gas
+68,1,1,6/17/22,ACH Payment,-33.32,Restaurant
+69,1,1,6/15/22,ACH Payment,-38.46,Gas
+70,1,1,6/7/22,Check,-93.32,Entertainment
+71,1,1,6/12/22,ATM Withdrawal,-60,Entertainment
+72,1,1,6/5/22,Check,37.94,Income
+73,1,1,6/2/22,ACH Payment,-175.9,Other
+74,1,1,6/16/22,ATM Withdrawal,-200,Retail
+75,1,1,6/22/22,Direct Deposit,883.35,Income
+76,1,1,6/5/22,ACH Payment,-404.62,Grocery
+77,1,1,6/1/22,Transfer,-45.64,Other
+78,1,1,5/28/22,ACH Payment,-277.77,Entertainment
+79,1,1,6/10/22,Check,-168.47,Retail
+80,1,1,6/15/22,Transfer,143.72,Income
+81,1,1,5/27/22,Direct Deposit,1597.42,Income
+82,1,1,6/10/22,Transfer,128.66,Income
+83,1,1,6/10/22,ATM Withdrawal,-60,Retail
+84,1,1,6/9/22,ACH Payment,-190.84,Other
+85,1,1,6/5/22,Debit Card,-398.53,Grocery
+86,1,1,6/5/22,Debit Card,-86.94,Gas
+87,1,1,5/30/22,ATM Withdrawal,-40,Other
+88,1,1,5/25/22,ACH Payment,-452.32,Retail
+89,1,1,6/5/22,Direct Deposit,1605.97,Income
+90,1,1,5/30/22,Debit Card,-252.97,Other
+91,1,1,5/30/22,Debit Card,-343.8,Restaurant
+92,1,1,6/28/22,Debit Card,-25.13,Utilities
+93,1,1,7/6/22,Check,175.32,Income
+94,1,1,7/10/22,Transfer,113.19,Income
+95,1,1,6/29/22,Debit Card,-240.56,Grocery
+96,1,1,6/30/22,Debit Card,-377.03,Gas
+97,1,1,7/13/22,ACH Payment,-162.34,Other
+98,1,1,6/30/22,Check,-55.5,Restaurant
+99,1,1,7/12/22,Debit Card,-292.78,Retail
+100,1,1,7/3/22,ACH Payment,-375.28,Restaurant
+101,1,1,6/25/22,Debit Card,-182.3,Restaurant
+102,1,1,7/17/22,Debit Card,-310.9,Restaurant
+103,1,1,7/22/22,Transfer,-198.59,Gas
+104,1,1,6/28/22,Direct Deposit,887.44,Income
+105,1,1,7/8/22,ACH Payment,-71.63,Other
+106,1,1,7/6/22,Direct Deposit,1180.91,Income
+107,1,1,6/25/22,Debit Card,-412.21,Utilities
+108,1,1,7/7/22,ATM Withdrawal,-80,Retail
+109,1,1,7/5/22,Debit Card,-239.67,Retail
+110,1,1,7/18/22,Check,-34.74,Restaurant
+111,1,1,6/25/22,Debit Card,-24.46,Entertainment
+112,1,1,7/4/22,Direct Deposit,884.25,Income
+113,1,1,7/15/22,Debit Card,-360.97,Restaurant
+114,1,1,7/18/22,Direct Deposit,1311.33,Income
+115,1,1,7/18/22,Debit Card,-293.11,Grocery
+116,1,1,7/14/22,ACH Payment,-371.57,Other
+117,1,1,7/21/22,Debit Card,-485.95,Gas
+118,1,1,7/11/22,ATM Withdrawal,-60,Gas
+119,1,1,7/11/22,ACH Payment,-395.77,Grocery
+120,1,1,7/22/22,ACH Payment,-270.29,Entertainment
+121,1,1,7/4/22,ACH Payment,-21.35,Gas
+122,1,1,7/7/22,Debit Card,-428.44,Entertainment
+123,1,1,7/1/22,Check,75.28,Income
+124,1,1,7/8/22,ACH Payment,-114.93,Gas
+125,1,1,6/26/22,Direct Deposit,1678.96,Income
+126,1,1,7/8/22,Debit Card,-156.49,Utilities
+127,1,1,7/2/22,Check,-48.64,Gas
+128,1,1,7/18/22,Direct Deposit,893.46,Income
+129,1,1,7/9/22,Check,-154.39,Grocery
+130,1,1,7/12/22,Debit Card,-198.47,Retail
+131,1,1,7/18/22,ACH Payment,-337.89,Utilities
+132,1,1,6/28/22,ACH Payment,-178.41,Grocery
+133,1,1,7/13/22,ACH Payment,-396.42,Retail
+134,1,1,6/29/22,Direct Deposit,864.7,Income
+135,1,1,7/17/22,Direct Deposit,1333.58,Income
+136,1,1,7/30/22,Debit Card,-86.69,Gas
+137,1,1,8/14/22,Direct Deposit,1707.68,Income
+138,1,1,8/5/22,Check,80.45,Income
+139,1,1,8/19/22,Debit Card,-327.85,Retail
+140,1,1,8/9/22,Check,146.98,Income
+141,1,1,8/3/22,ACH Payment,-363.05,Gas
+142,1,1,7/25/22,ATM Withdrawal,-20,Retail
+143,1,1,8/12/22,Direct Deposit,806.66,Income
+144,1,1,8/9/22,Debit Card,-89.94,Utilities
+145,1,1,7/29/22,Direct Deposit,998.8,Income
+146,1,1,8/6/22,Debit Card,-471.19,Entertainment
+147,1,1,7/28/22,ACH Payment,-207.79,Other
+148,1,1,7/27/22,ACH Payment,-424.73,Utilities
+149,1,1,8/6/22,ATM Withdrawal,-20,Utilities
+150,1,1,8/14/22,ACH Payment,-352.37,Utilities
+151,1,1,7/28/22,ACH Payment,-420.57,Other
+152,1,1,7/25/22,ACH Payment,-459.77,Grocery
+153,1,1,7/29/22,Debit Card,-288.3,Gas
+154,1,1,7/26/22,ATM Withdrawal,-200,Grocery
+155,1,1,8/13/22,Debit Card,-380.63,Grocery
+156,1,1,8/7/22,Debit Card,-466.89,Other
+157,1,1,7/28/22,Debit Card,-38.25,Gas
+158,1,1,8/16/22,Direct Deposit,1442.84,Income
+159,1,1,8/19/22,ACH Payment,-407.29,Utilities
+160,1,1,8/16/22,Debit Card,-485.01,Restaurant
+161,1,1,7/26/22,Direct Deposit,873.32,Income
+162,1,1,8/1/22,Direct Deposit,1165.68,Income
+163,1,1,8/13/22,Debit Card,-7.58,Retail
+164,1,1,8/9/22,ATM Withdrawal,-80,Utilities
+165,1,1,7/24/22,ATM Withdrawal,-40,Grocery
+166,1,1,8/2/22,Direct Deposit,1742.14,Income
+167,1,1,8/20/22,ACH Payment,-453.27,Retail
+168,1,1,8/6/22,Debit Card,-123.52,Restaurant
+169,1,1,8/3/22,Debit Card,-15.03,Other
+170,1,1,8/21/22,Direct Deposit,892.56,Income
+171,1,1,8/18/22,Debit Card,-251.05,Restaurant
+172,1,1,7/24/22,ACH Payment,-213.46,Retail
+173,1,1,8/19/22,Debit Card,-242.07,Grocery
+174,1,1,7/29/22,Debit Card,-386.51,Other
+175,1,1,8/12/22,Debit Card,-274.7,Other
+176,1,1,8/12/22,ACH Payment,-172.31,Entertainment
+177,1,1,8/19/22,Direct Deposit,1695.79,Income
+178,1,1,8/12/22,Transfer,4.77,Income
+179,1,1,7/27/22,ACH Payment,-451.24,Other
+180,1,1,8/2/22,ACH Payment,-30.04,Entertainment
+181,1,1,7/25/22,ATM Withdrawal,-20,Entertainment
+182,1,1,8/18/22,ACH Payment,-388.54,Retail
+183,1,1,8/18/22,ACH Payment,-94.92,Restaurant
+184,1,1,8/16/22,ACH Payment,-202.22,Utilities
+185,1,1,7/27/22,ACH Payment,-86.93,Entertainment
+186,1,1,8/15/22,Debit Card,-47.56,Entertainment
+187,1,1,7/30/22,Direct Deposit,1006.57,Income
+188,1,1,8/16/22,ACH Payment,-326.59,Retail
+189,1,1,8/30/22,Debit Card,-243.73,Retail
+190,1,1,8/28/22,Debit Card,-167.55,Entertainment
+191,1,1,9/7/22,Debit Card,-246.15,Grocery
+192,1,1,8/23/22,Direct Deposit,1790.01,Income
+193,1,1,9/11/22,Debit Card,-445.36,Entertainment
+194,1,1,9/12/22,Direct Deposit,870.79,Income
+195,1,1,8/26/22,ACH Payment,-113.72,Retail
+196,1,1,9/4/22,Debit Card,-16.66,Utilities
+197,1,1,9/9/22,Debit Card,-32.01,Restaurant
+198,1,1,8/29/22,Direct Deposit,1701.94,Income
+199,1,1,9/13/22,ACH Payment,-126.41,Other
+200,1,1,9/1/22,ACH Payment,-283.32,Other
+201,1,1,9/9/22,Debit Card,-297.71,Gas
+202,1,1,8/31/22,Check,-24.53,Utilities
+203,1,1,9/2/22,ACH Payment,-336.05,Entertainment
+204,1,1,9/14/22,ACH Payment,-128.51,Retail
+205,1,1,9/10/22,Debit Card,-104.5,Utilities
+206,1,1,9/19/22,ACH Payment,-70.74,Entertainment
+207,1,1,8/29/22,Direct Deposit,1140.21,Income
+208,1,1,9/10/22,ATM Withdrawal,-200,Retail
+209,1,1,9/19/22,ACH Payment,-81.7,Restaurant
+210,1,1,8/26/22,Check,-42.34,Grocery
+211,1,1,8/30/22,Debit Card,-284.55,Entertainment
+212,1,1,9/10/22,Transfer,-194.3,Entertainment
+213,1,1,9/2/22,ACH Payment,-252.95,Retail
+214,1,1,9/17/22,ATM Withdrawal,-60,Restaurant
+215,1,1,9/14/22,ACH Payment,-169.36,Entertainment
+216,1,1,8/26/22,Direct Deposit,1096.86,Income
+217,1,1,9/2/22,Debit Card,-495.34,Other
+218,1,1,9/15/22,ATM Withdrawal,-20,Gas
+219,1,1,9/13/22,ATM Withdrawal,-200,Entertainment
+220,1,1,8/31/22,Direct Deposit,1212.93,Income
+221,1,1,9/19/22,ACH Payment,-114.47,Other
+222,1,1,9/19/22,ATM Withdrawal,-80,Entertainment
+223,1,1,8/25/22,Debit Card,-90.68,Grocery
+224,1,1,9/6/22,Debit Card,-415.57,Other
+225,1,1,9/10/22,Check,116.45,Income
+226,1,1,8/27/22,ATM Withdrawal,-60,Other
+227,1,1,9/1/22,ACH Payment,-322.59,Other
+228,1,1,9/13/22,Debit Card,-498.65,Grocery
+229,1,1,8/27/22,Debit Card,-323.98,Entertainment
+230,1,1,8/25/22,ATM Withdrawal,-60,Gas
+231,1,1,9/11/22,Direct Deposit,853.43,Income
+232,1,1,9/2/22,Debit Card,-248.19,Entertainment
+233,1,1,8/26/22,Debit Card,-368.81,Utilities
+234,1,1,8/26/22,ATM Withdrawal,-80,Restaurant
+235,1,1,9/13/22,Check,177.86,Income
+236,1,1,8/27/22,Transfer,79.79,Income
+237,1,1,8/23/22,ACH Payment,-7.1,Restaurant
+238,1,1,8/31/22,ACH Payment,-345.19,Restaurant
+239,1,1,9/20/22,Direct Deposit,1266.28,Income
+240,1,1,9/14/22,ACH Payment,-289.25,Grocery
+241,1,1,9/16/22,Debit Card,-284.07,Entertainment
+242,1,1,10/11/22,Debit Card,-304.18,Grocery
+243,1,1,9/22/22,Transfer,-11.07,Gas
+244,1,1,10/5/22,Transfer,-114.8,Retail
+245,1,1,10/4/22,Debit Card,-42.12,Utilities
+246,1,1,10/9/22,Check,18.74,Income
+247,1,1,10/1/22,Debit Card,-211.57,Other
+248,1,1,10/20/22,Debit Card,-370.42,Grocery
+249,1,1,10/17/22,Debit Card,-263.76,Retail
+250,1,1,10/14/22,ACH Payment,-102.09,Restaurant
+251,1,1,10/19/22,ACH Payment,-312.31,Gas
+252,1,1,9/27/22,Debit Card,-309.03,Entertainment
+253,1,1,10/14/22,Check,103.44,Income
+254,1,1,10/13/22,Debit Card,-371.22,Entertainment
+255,1,1,10/3/22,Direct Deposit,873.05,Income
+256,1,1,9/24/22,Debit Card,-415.73,Restaurant
+257,1,1,10/16/22,Debit Card,-246.09,Other
+258,1,1,9/29/22,ACH Payment,-395.5,Restaurant
+259,1,1,10/14/22,Debit Card,-314.98,Other
+260,1,1,10/9/22,Debit Card,-438.28,Grocery
+261,1,1,9/26/22,ACH Payment,-481.58,Restaurant
+262,1,1,10/12/22,ATM Withdrawal,-40,Gas
+263,1,1,10/1/22,ATM Withdrawal,-80,Utilities
+264,1,1,9/28/22,Debit Card,-419.66,Entertainment
+265,1,1,10/10/22,Check,-42.17,Gas
+266,1,1,10/20/22,ACH Payment,-499.98,Grocery
+267,1,1,10/7/22,Check,-5.79,Entertainment
+268,1,1,10/12/22,ACH Payment,-105.13,Retail
+269,1,1,10/13/22,Debit Card,-38.7,Grocery
+270,1,1,9/25/22,Direct Deposit,1011.59,Income
+271,1,1,9/29/22,ACH Payment,-119.99,Restaurant
+272,1,1,9/24/22,ACH Payment,-399.82,Other
+273,1,1,10/1/22,ACH Payment,-63.55,Utilities
+274,1,1,9/25/22,ACH Payment,-401.09,Grocery
+275,1,1,10/10/22,ATM Withdrawal,-100,Grocery
+276,1,1,9/27/22,Debit Card,-31.49,Retail
+277,1,1,10/9/22,Check,133.84,Income
+278,1,1,9/26/22,ACH Payment,-401.16,Restaurant
+279,1,1,10/13/22,Debit Card,-72.61,Grocery
+280,1,1,11/15/22,Direct Deposit,1576.9,Income
+281,1,1,11/12/22,ACH Payment,-215.61,Retail
+282,1,1,10/29/22,Debit Card,-210.79,Utilities
+283,1,1,10/30/22,Debit Card,-44.14,Entertainment
+284,1,1,10/30/22,ACH Payment,-482.83,Other
+285,1,1,11/4/22,Check,-92.52,Restaurant
+286,1,1,11/16/22,Check,-101.9,Grocery
+287,1,1,11/4/22,Debit Card,-188.44,Grocery
+288,1,1,11/4/22,ACH Payment,-58.58,Entertainment
+289,1,1,10/22/22,Debit Card,-323.33,Entertainment
+290,1,1,11/2/22,Direct Deposit,1714.54,Income
+291,1,1,10/30/22,ACH Payment,-35.67,Restaurant
+292,1,1,11/13/22,Direct Deposit,1713.41,Income
+293,1,1,11/2/22,Debit Card,-45.06,Restaurant
+294,1,1,11/11/22,ACH Payment,-27.05,Other
+295,1,1,11/4/22,Direct Deposit,1135.47,Income
+296,1,1,11/15/22,ATM Withdrawal,-40,Grocery
+297,1,1,11/14/22,ACH Payment,-311.3,Retail
+298,1,1,10/28/22,Debit Card,-230.36,Grocery
+299,1,1,11/1/22,Debit Card,-308.01,Entertainment
+300,1,1,10/25/22,ACH Payment,-412.96,Retail
+301,1,1,10/26/22,Transfer,78.92,Income
+302,1,1,10/26/22,Check,-113.6,Grocery
+303,1,1,11/18/22,Check,18.24,Income
+304,1,1,11/11/22,Debit Card,-35.56,Restaurant
+305,1,1,10/23/22,ATM Withdrawal,-20,Other
+306,1,1,10/22/22,ACH Payment,-497.03,Utilities
+307,1,1,11/4/22,Debit Card,-318.28,Utilities
+308,1,1,11/9/22,Check,-1.1,Grocery
+309,1,1,10/30/22,Direct Deposit,1327.73,Income
+310,1,1,11/10/22,ACH Payment,-277.49,Utilities
+311,1,1,11/2/22,Check,-43.95,Retail
+312,1,1,11/10/22,ATM Withdrawal,-20,Other
+313,1,1,11/12/22,ACH Payment,-302.91,Gas
+314,1,1,10/27/22,Direct Deposit,1371.18,Income
+315,1,1,11/11/22,ACH Payment,-195.04,Grocery
+316,1,1,11/10/22,Direct Deposit,1003.12,Income
+317,1,1,11/2/22,ACH Payment,-244.06,Gas
+318,1,1,10/25/22,Debit Card,-460.23,Restaurant
+319,1,1,10/27/22,Check,74.46,Income
+320,1,1,11/8/22,ACH Payment,-32.63,Gas
+321,1,1,10/27/22,Debit Card,-12.62,Restaurant
+322,1,1,11/15/22,Debit Card,-282.43,Utilities
+323,1,1,11/16/22,Direct Deposit,1504.24,Income
+324,1,1,10/22/22,Debit Card,-37.44,Entertainment
+325,1,1,10/25/22,Check,193.82,Income
+326,1,1,10/23/22,Debit Card,-343.8,Entertainment
+327,1,1,11/16/22,ATM Withdrawal,-20,Restaurant
+328,1,1,10/30/22,ATM Withdrawal,-60,Gas
+329,1,1,11/3/22,ATM Withdrawal,-40,Grocery
+330,1,1,11/10/22,ACH Payment,-329.45,Retail
+331,1,1,11/18/22,Debit Card,-109.75,Restaurant
+332,1,1,11/11/22,ACH Payment,-444.6,Retail
+333,1,1,10/22/22,Debit Card,-188.93,Retail
+334,1,1,10/24/22,ACH Payment,-390.19,Gas
+335,1,1,10/28/22,Debit Card,-458.03,Other
+336,1,1,11/19/22,ACH Payment,-96.13,Other
+337,1,1,11/10/22,Check,-187.28,Other
+338,1,1,12/1/22,Debit Card,-173.3,Gas
+339,1,1,12/10/22,Debit Card,-150.6,Utilities
+340,1,1,11/23/22,Direct Deposit,1472.95,Income
+341,1,1,12/6/22,Check,-89.2,Grocery
+342,1,1,12/8/22,ACH Payment,-346.76,Utilities
+343,4,2,3/30/23,Debit Card,-250.33,Grocery
+344,4,2,3/13/23,Direct Deposit,3614.32,Income
+345,4,2,4/6/23,Direct Deposit,2620.4,Income
+346,4,2,3/23/23,Debit Card,-334.56,Other
+347,4,2,3/29/23,Check,-104.64,Other
+348,4,2,3/26/23,ACH Payment,-240.39,Other
+349,4,2,3/15/23,Debit Card,-285.36,Grocery
+350,4,2,3/31/23,ACH Payment,-87.77,Grocery
+351,4,2,3/19/23,ACH Payment,-109.91,Other
+352,4,2,3/10/23,Debit Card,-492.26,Retail
+353,4,2,3/10/23,Direct Deposit,3496.29,Income
+354,4,2,4/4/23,Direct Deposit,2793.91,Income
+355,4,2,4/2/23,Debit Card,-463.99,Grocery
+356,4,2,3/15/23,Transfer,68.4,Income
+357,4,2,3/26/23,Debit Card,-455.15,Other
+358,4,2,3/9/23,Debit Card,-453.41,Entertainment
+359,4,2,3/13/23,Debit Card,-76.67,Utilities
+360,4,2,3/17/23,Debit Card,-42.54,Retail
+361,4,2,3/14/23,Check,-190.46,Grocery
+362,4,2,4/3/23,Check,-143.48,Entertainment
+363,4,2,3/20/23,ACH Payment,-398.38,Other
+364,4,2,3/29/23,Check,161.24,Income
+365,4,2,3/21/23,Debit Card,-308.15,Grocery
+366,4,2,3/23/23,ACH Payment,-201.51,Restaurant
+367,4,2,4/4/23,ATM Withdrawal,-200,Entertainment
+368,4,2,4/2/23,Debit Card,-166.01,Retail
+369,4,2,3/26/23,Debit Card,-418.38,Other
+370,4,2,4/6/23,ACH Payment,-59.43,Grocery
+371,4,2,4/6/23,ACH Payment,-499.81,Other
+372,4,2,3/20/23,Debit Card,-256.55,Retail
+373,4,2,3/18/23,ACH Payment,-347.36,Grocery
+374,4,2,3/16/23,Debit Card,-276.45,Utilities
+375,4,2,3/11/23,ACH Payment,-484.84,Retail
+376,4,2,3/29/23,Debit Card,-35.24,Grocery
+377,4,2,3/10/23,Check,192.29,Income
+378,4,2,3/30/23,Debit Card,-438.71,Retail
+379,4,2,3/29/23,ATM Withdrawal,-40,Utilities
+380,4,2,3/26/23,Direct Deposit,1103.46,Income
+381,4,2,4/3/23,Debit Card,-87.78,Entertainment
+382,4,2,3/15/23,ACH Payment,-387.86,Grocery
+383,4,2,4/5/23,Debit Card,-255.7,Utilities
+384,4,2,3/30/23,ACH Payment,-68.73,Restaurant
+385,4,2,4/1/23,ACH Payment,-369.25,Restaurant
+386,4,2,3/16/23,Debit Card,-477.39,Grocery
+387,4,2,3/14/23,Debit Card,-421.67,Other
+388,4,2,3/13/23,Direct Deposit,903.38,Income
+389,4,2,3/16/23,ACH Payment,-333.08,Other
+390,4,2,4/1/23,Debit Card,-329.9,Restaurant
+391,4,2,4/18/23,Debit Card,-339.19,Gas
+392,4,2,4/26/23,Direct Deposit,2121.85,Income
+393,4,2,4/26/23,Debit Card,-269.66,Grocery
+394,4,2,4/19/23,ACH Payment,-494.41,Gas
+395,4,2,5/6/23,ACH Payment,-67.1,Restaurant
+396,4,2,5/5/23,Debit Card,-232.52,Retail
+397,4,2,4/27/23,Check,115.8,Income
+398,4,2,4/21/23,ACH Payment,-97.36,Restaurant
+399,4,2,4/28/23,Debit Card,-314.91,Gas
+400,4,2,4/15/23,Debit Card,-281.83,Retail
+401,4,2,4/22/23,ACH Payment,-183.35,Retail
+402,4,2,4/16/23,Debit Card,-393.1,Entertainment
+403,4,2,4/21/23,ACH Payment,-182.3,Other
+404,4,2,5/4/23,Check,-41.71,Other
+405,4,2,4/29/23,ACH Payment,-381.46,Grocery
+406,4,2,4/22/23,Debit Card,-284.23,Restaurant
+407,4,2,4/10/23,Debit Card,-116.28,Restaurant
+408,4,2,4/8/23,ACH Payment,-346.32,Retail
+409,4,2,4/16/23,Check,144.77,Income
+410,4,2,4/16/23,Check,-54.5,Retail
+411,4,2,4/20/23,ACH Payment,-118.24,Restaurant
+412,4,2,4/14/23,Debit Card,-458.56,Entertainment
+413,4,2,5/3/23,Debit Card,-435.37,Grocery
+414,4,2,4/8/23,Debit Card,-195.16,Retail
+415,4,2,4/16/23,ACH Payment,-20.77,Entertainment
+416,4,2,4/21/23,ACH Payment,-168.23,Restaurant
+417,4,2,4/13/23,Check,79.91,Income
+418,4,2,5/3/23,Debit Card,-250.26,Entertainment
+419,4,2,4/14/23,ACH Payment,-356.26,Retail
+420,4,2,4/29/23,Debit Card,-145.33,Restaurant
+421,4,2,4/17/23,Debit Card,-65.2,Other
+422,4,2,4/19/23,ATM Withdrawal,-80,Other
+423,4,2,4/10/23,ACH Payment,-318.13,Other
+424,4,2,4/25/23,ACH Payment,-395.88,Entertainment
+425,4,2,5/1/23,Check,-82.75,Utilities
+426,4,2,4/12/23,Debit Card,-185.21,Other
+427,4,2,5/6/23,ACH Payment,-191.9,Grocery
+428,4,2,5/23/23,Debit Card,-84.44,Restaurant
+429,4,2,5/30/23,ATM Withdrawal,-20,Other
+430,4,2,5/9/23,Direct Deposit,2664.43,Income
+431,4,2,6/2/23,Check,157.52,Income
+432,4,2,5/8/23,Direct Deposit,1823.92,Income
+433,4,2,5/8/23,Debit Card,-346.14,Entertainment
+434,4,2,5/27/23,Debit Card,-181.67,Other
+435,4,2,6/2/23,ACH Payment,-471.46,Gas
+436,4,2,5/10/23,Debit Card,-410.82,Grocery
+437,4,2,6/2/23,Debit Card,-81.04,Gas
+438,4,2,5/16/23,Debit Card,-341.4,Gas
+439,4,2,5/10/23,Debit Card,-8.34,Other
+440,4,2,5/18/23,Debit Card,-266.67,Grocery
+441,4,2,6/1/23,Direct Deposit,3601.83,Income
+442,4,2,5/16/23,ACH Payment,-278.43,Retail
+443,4,2,5/12/23,Debit Card,-327.91,Grocery
+444,4,2,5/29/23,ACH Payment,-14.07,Grocery
+445,4,2,5/10/23,ACH Payment,-330.16,Grocery
+446,4,2,5/25/23,ACH Payment,-16.83,Entertainment
+447,4,2,5/12/23,Transfer,115.67,Income
+448,4,2,5/24/23,Debit Card,-66.94,Utilities
+449,4,2,5/13/23,Debit Card,-22.99,Retail
+450,4,2,5/15/23,Transfer,96.15,Income
+451,4,2,5/27/23,Direct Deposit,3201.6,Income
+452,4,2,5/13/23,Debit Card,-326.78,Gas
+453,4,2,5/17/23,Direct Deposit,1713.04,Income
+454,4,2,5/23/23,Check,185.08,Income
+455,4,2,5/21/23,Direct Deposit,3786.08,Income
+456,4,2,5/16/23,Debit Card,-399.36,Gas
+457,4,2,5/15/23,ACH Payment,-281.36,Other
+458,4,2,5/16/23,Debit Card,-449.62,Gas
+459,4,2,5/9/23,Direct Deposit,2364.77,Income
+460,4,2,5/23/23,ACH Payment,-307.16,Restaurant
+461,4,2,5/17/23,Debit Card,-6.73,Gas
+462,4,2,7/3/23,Debit Card,-361.15,Grocery
+463,4,2,7/5/23,Debit Card,-355.46,Entertainment
+464,4,2,6/7/23,Transfer,-122.75,Retail
+465,4,2,6/7/23,Debit Card,-413.57,Grocery
+466,4,2,6/29/23,ACH Payment,-314.53,Utilities
+467,4,2,6/26/23,Check,55.2,Income
+468,4,2,6/20/23,Debit Card,-86.37,Utilities
+469,4,2,6/7/23,Debit Card,-336.55,Other
+470,4,2,6/22/23,ACH Payment,-63.69,Entertainment
+471,4,2,7/1/23,Debit Card,-120.82,Gas
+472,4,2,6/12/23,Debit Card,-436.72,Restaurant
+473,4,2,7/2/23,Debit Card,-95.99,Restaurant
+474,4,2,6/15/23,Check,197.7,Income
+475,4,2,6/25/23,Direct Deposit,2123.41,Income
+476,4,2,6/14/23,Direct Deposit,2958.35,Income
+477,4,2,7/5/23,ACH Payment,-487.46,Gas
+478,4,2,6/29/23,Debit Card,-368,Grocery
+479,4,2,6/17/23,Debit Card,-340.64,Other
+480,4,2,6/10/23,Direct Deposit,3083.86,Income
+481,4,2,7/4/23,Direct Deposit,3219.01,Income
+482,4,2,6/29/23,Debit Card,-192.59,Gas
+483,4,2,6/16/23,Debit Card,-48.63,Utilities
+484,4,2,6/20/23,ACH Payment,-125.73,Utilities
+485,4,2,6/18/23,ACH Payment,-186.82,Grocery
+486,4,2,6/27/23,ACH Payment,-15.99,Gas
+487,4,2,6/8/23,Direct Deposit,1804.02,Income
+488,4,2,6/27/23,ACH Payment,-280.34,Grocery
+489,4,2,6/27/23,ACH Payment,-220.04,Entertainment
+490,4,2,7/3/23,Direct Deposit,1831.49,Income
+491,4,2,6/19/23,Debit Card,-286.69,Utilities
+492,4,2,6/13/23,ACH Payment,-371.17,Other
+493,4,2,6/26/23,ACH Payment,-202.51,Restaurant
+494,4,2,6/13/23,Debit Card,-144.36,Utilities
+495,4,2,6/8/23,ACH Payment,-330.42,Entertainment
+496,4,2,6/23/23,Direct Deposit,3518.52,Income
+497,4,2,6/21/23,Debit Card,-187.04,Retail
+498,4,2,7/3/23,Debit Card,-120.71,Gas
+499,4,2,7/15/23,ACH Payment,-263.23,Grocery
+500,4,2,7/15/23,ACH Payment,-357.76,Grocery
