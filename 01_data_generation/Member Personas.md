@@ -1,8 +1,8 @@
 # **Member Personas**
-## *This file gives full descriptions on types of HVCU members*
+## *This project uses 7 distinct member personas based on real-world HVCU member behavior patterns.*
 
 **Embedded Characteristics:**
-- Balances Kept 
+- Balances  
 - Transaction Counts 
 - Product Counts 
 - Product Type 
@@ -18,3 +18,4 @@
 - Loan-Only: Just auto loan, pays off, then primary savings goes dormant → high churn risk post-payoff
 - Slow Adopter: Opens account, takes 6 months to activate, eventually becomes engaged → risk early, stable later
 - Emergency User: Uses PALs frequently, volatile balance, excessive privilege pay → moderate churn risk, needs intervention (Cross Sell)
+
