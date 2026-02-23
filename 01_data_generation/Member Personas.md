@@ -13,9 +13,10 @@
 - Length of time between product usage
  
 ## **Persona Types:**
-- Primary Banker: Direct deposit, high transaction count, multiple products → low churn risk (Primacy)
-- Rate Shopper: Large balance in CD, minimal transactions → churns at CD maturity 
-- Loan-Only: Just auto loan, pays off, then primary savings goes dormant → high churn risk post-payoff
-- Slow Adopter: Opens account, takes 6 months to activate, eventually becomes engaged → risk early, stable later
-- Emergency User: Uses PALs frequently, volatile balance, excessive privilege pay → moderate churn risk, needs intervention (Cross Sell)
-
+- Primary Banker: Direct deposit, high transaction count, multiple products - low churn risk (Primacy)
+- Rate Shopper: Large balance in CD, minimal transactions - churns at CD maturity 
+- Loan-Only: Just auto loan, pays off, then primary savings goes dormant - high churn risk post-payoff
+- Slow Adopter: Opens account, takes 6 months to activate, eventually becomes engaged - risk early, stable later
+- Emergency User: Uses PALs frequently, volatile balance, excessive privilege pay - moderate churn risk, needs intervention (Cross Sell)
+- Seasonal Worker: Works seasonally, inconsistent income/activity, moderate churn
+- Digital-First: Heavy mobile/online usage, minimal branch visits, tech-savvy
