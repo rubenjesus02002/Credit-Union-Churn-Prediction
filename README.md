@@ -83,11 +83,13 @@ This project uses 7 distinct member personas based on real-world credit union me
 ### Insights
 
 - **Loan-Only members** take the cake! They had the highest churn rate at **43.8%** with 57 average transactions per member. We may be able to tailor coaching initiatives so employees have deeper conversations on where members have primacy or why they only have loans with us. Looking at our Churned Member Count below, there is a huge gap and potential PSO's. Great insight to pass to branches.
+  
 | Total Member Count | Active Member Count | Churned Member Count |
 |---------|-------------|------------|
 |1,500|843|657|
   
 - **Primary Bankers** predictably, had the lowest churn at **3.35%** with 648 average transactions per member. These members seemingly require the least maintenance, just continued reassurance that we have their back for banking needs.
+  
 | Total Member Count | Active Member Count | Churned Member Count |
 |---------|-------------|------------|
 |2,000|1,933|67|
