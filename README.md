@@ -75,14 +75,52 @@ This project uses 7 distinct member personas based on real-world credit union me
 └── README.md
 ```
 
-## Dashboard & Key Findings
+## Dashboard & Insights
 
 ![Member Churn Dashboard](images/Member%20Churn%20Dashboard.png)
 
-- **Loan-Only members** had the highest churn rate at **43.8%** with 57 average transactions per member
-- **Primary Bankers** had the lowest churn at **3.35%** with 648 average transactions per member
-- **Active members** maintained ~$2,000 higher average balance than churned member
-- ....
+
+### Insights
+
+- **Loan-Only members** take the cake! They had the highest churn rate at **43.8%** with 57 average transactions per member. We may be able to tailor coaching initiatives so employees have deeper conversations on where members have primacy or why they only have loans with us. Looking at our Churned Member Count below, there is a huge gap and potential PSO's. Great insight to pass to branches.
+    | Total Member Count | Active Member Count | Churned Member Count |
+    |1,500|843|657|
+  
+- **Primary Bankers** predictably, had the lowest churn at **3.35%** with 648 average transactions per member. These members seemingly require the least maintenance, just continued reassurance that we have their back for banking needs. 
+    | Total Member Count | Active Member Count | Churned Member Count |
+    |2,000|1,933|67|
+  
+- **Active members** maintained ~$2,000 higher average balance than churned members. This may be a useful statistic for the data science team for exploration. Lets say we wanted to create a decision tree for predictions to see whether an individual member is likely to churn based on decisions or characteristics. So, if we understand the ranges that churned members usually fall between like average monthly balances, average credit scores, average monthly transactions, then we can create a decision tree to trickle down and eventually lead to a “Active” or “Churned”, allowing us to calculate the probability of churning for individual members. That would look like this:
+
+  graph TD
+    %% Node Definitions
+    Start([Member Evaluation]) --> CS{Credit Score<br/>650-700?}
+    
+    %% Decision Path
+    CS -- Yes --> Age{Age<br/>20-30?}
+    CS -- No --> LowCredit[Score Outside<br/>Target Range]
+    
+    Age -- Yes --> Trans{Transactions<br/>20-30 / mo?}
+    Age -- No --> Demo[Outside Target<br/>Demographic]
+    
+    Trans -- Yes --> Bal{Avg Balance<br/>$7k - $13k?}
+    Trans -- No --> Inactive[Low Transaction<br/>Volume]
+    
+    Bal -- Yes --> Active(Active)
+    Bal -- No --> LowBal[Insufficient<br/>Average Balance]
+
+    %% Final Churn Aggregation
+    LowCredit --> Churned([Churned])
+    Demo --> Churned
+    Inactive --> Churned
+    LowBal --> Churned
+
+    %% Styling
+    style Active fill:#c8e6c9,stroke:#2e7d32,stroke-width:2px
+    style Churned fill:#ffcdd2,stroke:#c62828,stroke-width:2px
+    style Start fill:#e1f5fe,stroke:#01579b
+
+- **Average Age & Credit Score:** I wanted to understand if there was a correlation between low credit or age and churn rate. As you can see, the synthetic data was TOO clean, and those figures came out very similar. In real-world data, these figures would likely differ drastically. Emergency-users for example, may have lower credit scores becasue of more hard inquiries during an emergency (Likely need lending) - possibly leading to an increased churn rate due to being denied for low credit. These members are more likley to be Personal Assistance Loan users. 
 
 ---
 
