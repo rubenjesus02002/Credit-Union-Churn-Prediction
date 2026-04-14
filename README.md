@@ -145,8 +145,7 @@ This project uses 7 distinct member personas based on real-world credit union me
 ### Phase 3 — Member Churn Analysis
 - Gold Layer: Aggregation & BI ready data
   
-...
-
+---
 
 ## Databricks Highlights
 Databricks offered the ability to transition this project to a scalable cloud based platform that allowed for seamless BI Tool (PowerBI) integration.
