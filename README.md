@@ -57,7 +57,8 @@ This project uses 7 distinct member personas based on real-world HVCU member beh
 - **Version Control:** GitHub
 
 ---
-
+## Laekhouse Architecure (ELT)
+![Member Churn Dashboard](images/member_churn_diagram.png)
 ## Project Structure
 ```
 ├── 01_data_generation/       # Scripts to generate synthetic dataset
