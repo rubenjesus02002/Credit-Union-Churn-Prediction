@@ -5,7 +5,7 @@
 
 ## Project Overview
 ### 3 Main Objectives for this Project:
-- Show Data Engineering Skills (Medallion Archecture, Python Raw Data Ingestion, Git Version Control)
+- Show Data Engineering Skills (Medallion Architecture, Python Raw Data Ingestion, Git Version Control)
 - Create the project entirely using Databricks 
 - Show Analytical Skills (Data Cleaning, Exploration, Business Thinking, Dashboard)
 
