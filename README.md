@@ -69,7 +69,10 @@ This project uses 7 distinct member personas based on real-world HVCU member beh
 
 ---
 
-## Key Findings
+## Dashboard & Key Findings
+
+![Member Churn Dashboard](Member Churn Dashboard.png)
+
 - **Loan-Only members** had the highest churn rate at **43.8%** — primarily post loan payoff
 - **Primary Bankers** had the lowest churn at **3.35%** with 648 avg transactions per member
 - **Active members** maintained ~$2,000 higher average balance than churned members
