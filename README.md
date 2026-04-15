@@ -94,7 +94,7 @@ This project uses 7 distinct member personas based on real-world credit union me
 |---------|-------------|------------|
 |2,000|1,933|67|
   
-- **Active members** maintained a $2,000 higher average balance than churned members. This may be a useful statistic for the data science team for exploration. Lets say we wanted to create a decision tree for predictions to see whether an individual member is likely to churn based on decisions or characteristics. So, if we understand the ranges that churned members usually fall between like average monthly balances, average credit scores, average monthly transactions, etc., then we can create a decision tree to trickle down and eventually lead to two choices, “Active” or “Churned”. This will allow us to find the probability of a member churning which can be useful. One example could be for tailoring marketing campaigns, wihtin compliance. That would look like this:
+- **Active members** maintained a $2,000 higher average balance than churned members. This may be a useful statistic for the data science team for exploration. Lets say we wanted to create a decision tree for predictions to see whether an individual member is likely to churn based on decisions or characteristics. So, if we understand the ranges that churned members usually fall between like average monthly balances, average credit scores, average monthly transactions, etc., then we can create a decision tree to trickle down and eventually lead to two choices, “Active” or “Churned”. This will allow us to find the probability of a member churning which can be useful. One example could be for tailoring marketing campaigns, within compliance. That would look like this:
   
 ```mermaid
  graph TD
